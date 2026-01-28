@@ -7,17 +7,15 @@
 ![Performance](https://img.shields.io/badge/performance-+91%25_faster-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-Enterprise-yellow.svg)
 
-**من React 14 إلى أحدث التقنيات - نفس النظام، أداء أسرع بشكل هائل**
-
-*From React 14 to Modern Tech Stack - Same System, Dramatically Faster Performance*
+**From React 14 to Modern Tech Stack - Same System, Dramatically Faster Performance**
 
 </div>
 
 ---
 
-## 👨‍💻 **المطور / Developer**
+## 👨‍💻 **Developer**
 
-**🎯 مالك حمد (Malek Hamd)**
+**🎯 Malek Hamd**
 - 💼 Senior Full Stack Developer  
 - 🏢 CRM Development Team Lead
 - 📧 Contact: [Add your email here]
@@ -25,67 +23,55 @@
 
 ---
 
-## 📋 **نظرة عامة / Overview**
+## 📋 **Overview**
 
 <div align="center">
 
-### 🎯 **الهدف الرئيسي / Main Goal**
-**تسريع الأداء بدون تغيير منطق النظام أو كسر أي شيء**
-
-*Speed up performance without changing system logic or breaking anything*
+### 🎯 **Main Goal**
+**Speed up performance without changing system logic or breaking anything**
 
 </div>
 
-هذا المشروع يمثل تحديث شامل لنظام إدارة علاقات العملاء (CRM) من تقنيات قديمة إلى أحدث الأدوات والتقنيات المتطورة. التركيز الأساسي كان على تحسين الأداء وسرعة التطوير مع المحافظة على جميع الوظائف الحالية.
-
-*This project represents a comprehensive update of the Customer Relationship Management (CRM) system from legacy technologies to cutting-edge tools. The primary focus was on improving performance and development speed while maintaining all existing functionality.*
+This project represents a comprehensive update of the Customer Relationship Management (CRM) system from legacy technologies to cutting-edge tools. The primary focus was on improving performance and development speed while maintaining all existing functionality.
 
 ---
 
-## ⚡ **الإنجازات الرئيسية / Key Achievements**
+## ⚡ **Key Achievements**
 
 <table align="center">
 <tr>
 <td align="center">
 
-### 🏃‍♂️ **بدء التطوير / Dev Start**
+### 🏃‍♂️ **Dev Start**
 <img src="https://img.shields.io/badge/improvement-75%25_faster-success.svg?style=for-the-badge">
 
-**من 2+ دقيقة → 30 ثانية**
-
-*From 2+ minutes → 30 seconds*
+**From 2+ minutes → 30 seconds**
 
 </td>
 <td align="center">
 
-### 🔨 **البناء / Build Time**
+### 🔨 **Build Time**
 <img src="https://img.shields.io/badge/improvement-91%25_faster-success.svg?style=for-the-badge">
 
-**من 11+ دقيقة → أقل من دقيقة**
-
-*From 11+ minutes → Less than 1 minute*
+**From 11+ minutes → Less than 1 minute**
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-### 🔄 **اختبار الجودة / QA Cycle**
+### 🔄 **QA Cycle**
 <img src="https://img.shields.io/badge/improvement-81%25_faster-success.svg?style=for-the-badge">
 
-**من 16+ دقيقة → 3 دقائق**
-
-*From 16+ minutes → 3 minutes*
+**From 16+ minutes → 3 minutes**
 
 </td>
 <td align="center">
 
-### 🚀 **النشر / Deployment**
+### 🚀 **Deployment**
 <img src="https://img.shields.io/badge/improvement-73%25_faster-success.svg?style=for-the-badge">
 
-**من 30 دقيقة → 8 دقائق**
-
-*From 30 minutes → 8 minutes*
+**From 30 minutes → 8 minutes**
 
 </td>
 </tr>
@@ -93,9 +79,9 @@
 
 ---
 
-## 🛠️ **التقنيات المستخدمة / Tech Stack**
+## 🛠️ **Tech Stack**
 
-### ❌ **التقنيات القديمة / Legacy Technologies**
+### ❌ **Legacy Technologies**
 ```
 - React 14.x (2015 technology)
 - Webpack 4.42.0
@@ -104,7 +90,7 @@
 - Old Node.js with security issues
 ```
 
-### ✅ **التقنيات الجديدة / Modern Technologies**
+### ✅ **Modern Technologies**
 ```
 - React 18+ (Latest)
 - Rsbuild (Rust-based, Enterprise-grade)
@@ -115,17 +101,17 @@
 
 ---
 
-## 🔧 **المشكلات التي تم حلها / Problems Solved**
+## 🔧 **Problems Solved**
 
 <div align="center">
 
-| المشكلة / Problem | الحل / Solution | التأثير / Impact |
+| Problem | Solution | Impact |
 |:---:|:---:|:---:|
-| 🐌 **بطء واضح في التطوير** | ⚡ **Rsbuild + SWC** | 🎯 **75% أسرع** |
-| ⏰ **انتظار طويل للتغييرات** | 🔥 **HMR فوري** | 🎯 **88% أسرع** |
-| 🏗️ **بناء ثقيل (11+ دقيقة)** | 🚀 **بناء ذكي (<1 دقيقة)** | 🎯 **91% أسرع** |
-| 😩 **ضغط نفسي على الفريق** | 😊 **تجربة تطوير ممتعة** | 🎯 **رضا عالي** |
-| 📉 **إنتاجية منخفضة** | 📈 **إنتاجية عالية** | 🎯 **6.5 FTE مكافئ** |
+| 🐌 **Obvious Development Slowness** | ⚡ **Rsbuild + SWC** | 🎯 **75% Faster** |
+| ⏰ **Long Wait for Changes** | 🔥 **Instant HMR** | 🎯 **88% Faster** |
+| 🏗️ **Heavy Build (11+ minutes)** | 🚀 **Smart Build (<1 minute)** | 🎯 **91% Faster** |
+| 😩 **Team Mental Stress** | 😊 **Enjoyable Development Experience** | 🎯 **High Satisfaction** |
+| 📉 **Low Productivity** | 📈 **High Productivity** | 🎯 **6.5 FTE Equivalent** |
 
 </div>
 
@@ -292,17 +278,17 @@ npm run analyze    # تحليل الحزمة / Bundle analysis
 
 ---
 
-## 📁 **هيكل المشروع / Project Structure**
+## 📁 **Project Structure**
 
 ```
 CRM-2026/
-├── 📄 index.html                 # العرض التقديمي الرئيسي / Main presentation
-├── 📄 README.md                  # هذا الملف / This file
-├── 📁 src/                       # مجلد الكود المصدري / Source code folder
-├── 📁 public/                    # الملفات العامة / Public assets
-├── 📁 videos/                    # فيديوهات التوضيح / Demo videos
-├── 📁 images/                    # الصور والمخططات / Images and charts
-└── 📁 docs/                      # التوثيق الإضافي / Additional documentation
+├── 📄 index.html                 # Main presentation file
+├── 📄 README.md                  # This documentation file
+├── 📁 src/                       # Source code directory
+├── 📁 public/                    # Public assets and static files
+├── 📁 videos/                    # Demo videos showcasing improvements
+├── 📁 images/                    # Images and charts for documentation
+└── 📁 docs/                      # Additional project documentation
 ```
 
 ---
