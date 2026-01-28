@@ -269,20 +269,7 @@ npm run analyze    # Bundle analysis
 
 ---
 
-## 📁 **Project Structure**
 
-```
-CRM-2026/
-├── 📄 index.html                 # Main presentation file
-├── 📄 README.md                  # This documentation file
-├── 📁 src/                       # Source code directory
-├── 📁 public/                    # Public assets and static files
-├── 📁 videos/                    # Demo videos showcasing improvements
-├── 📁 images/                    # Images and charts for documentation
-└── 📁 docs/                      # Additional project documentation
-```
-
----
 
 ## 🎯 **Next Steps**
 
